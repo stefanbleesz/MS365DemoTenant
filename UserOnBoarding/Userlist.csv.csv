@@ -1,0 +1,15 @@
+DisplayName,UserPrincipalName,MailNickName,Surname,GivenName,Department,JobTitle,City,Manager
+Bruce Willis,b.willis@domain.tld,b.willis,Willis,Bruce,GL / Sales / Support / Admin,CEO,Zürich
+Sylvester Stallone,s.stallone@domain.tld,s.stallone,Stallone,Sylvester,GL / Sales,Head of Sales,Bern,b.willis@domain.tld
+Arnold Schwarzenegger,a.schwarzenegger@domain.tld,a.schwarzenegger,Schwarzenegger,Arnold,GL / Support,Head of Support,Luzern,b.willis@domain.tld
+Nicolas Cage,n.cage@domain.tld,n.cage,Cage,Nicolas,GL / Admin,Head of Admin,Zürich,b.willis@domain.tld
+Morgan Freeman,m.freeman@domain.tld,m.freeman,Freeman,Morgan,Sales,Sales Manager,Bern,s.stallone@domain.tld
+Gerald Butler,g.butler@domain.tld,g.butler,Butler,Gerald,Sales,Sales Manager,Bern,s.stallone@domain.tld
+Gwen Stefani,g.stefani@domain.tld,g.stefani,Stefani,Gwen,Sales,Sales AzuBi,Bern,g.butler@domain.tld
+Alice Cooper,a.cooper@domain.tld,a.cooper,Cooper,Alice,Sales,Sales AzuBi,Bern,g.butler@domain.tld
+Till Schweiger,t.schweiger@domain.tld,t.schweiger,Schweiger,Till,Support,Support Manager,Luzern,a.schwarzenegger@domain.tld
+Otto Walkes,o.walkes@domain.tld,o.walkes,Walkes,Otto,Support,Support AzuBi,Luzern,t.schweiger@domain.tld
+Harald Junke,h.junke@domain.tld,h.junke,Junke,Harald,Admin,HR Manager,Zürich,n.cage@domain.tld
+Kurt Cobain,c.cobain@domain.tld,c.cobain,Cobain,Kurt,Admin,Finance Manager,Zürich,n.cage@domain.tld
+Axl Rose,a.rose@domain.tld,a.rose,Rose,Axl,Admin,HR Assistant,Zürich,h.junke@domain.tld
+Jimi Hendrix,j.hendrix@domain.tld,j.hendrix,Hendrix,Jimi,Admin,Finance Assistant,Zürich,c.cobain@domain.tld
